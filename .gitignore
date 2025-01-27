@@ -1,0 +1,28 @@
+# Environment Variables
+.env
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Dependencies
+node_modules/
+
+# Build files
+dist/
+build/
+
+# System Files
+.DS_Store
+Thumbs.db
+
+# IDE Configurations
+.vscode/
+.idea/
+*.iml
+
+# Cache Files
+.cache/
+.npm/
+.next/
